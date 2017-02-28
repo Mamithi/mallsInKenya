@@ -1,0 +1,14 @@
+<nav class="navbar navbar-fixed-top">
+	<div class="content-padding">
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/">Home</a></li>
+			<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Malls <i class="fa fa-chevron-down"></i></a>
+			<ul class="dropdown-menu">
+				<% for(var i=0; i<malls.length; i++) {%>
+					<li><a href="#" class="name_link"><%= malls[i].title %></a></li>
+				<% } %>
+			</ul>
+			</li>
+		</ul>
+	</div>
+</nav>

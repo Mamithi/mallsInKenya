@@ -6,12 +6,27 @@
 
   </head>
   <body>
+
+  <% include partials/header.ejs %>
+
+  <div id="mall-image">
+  	<h1 id="mall-title"><%= title %></h1>
+  </div>
+
+  <div id="posters-wrapper" class="content-padding clearfix">
     
-  <% for(var i = 0; i < malls.length; i++){%>
+	  <% for(var i = 0; i < malls.length; i++){%>
+	  	<div class="poster">
+	  		<img src="/images/<%= malls[i].poster %>" class="img-responsive">
 
-  	<img src="/images/<%= malls[i].poster %>" class="img-responsive">
+	  		<div class="poster-info-overlay">
+	  			<h3><%= malls[i].title %></h3>
+	  			<h4>View More <i class="fa fa-arrow-right"></i> </h4>
+	  		</div>
+	  	</div>
 
-  <% } %>
+	  <% } %>
+  </div>
 
 
 
