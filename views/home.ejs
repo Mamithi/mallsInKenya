@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+  	<% include partials/head.ejs %>
+
+  </head>
+  <body>
+    
+  <% for(var i = 0; i < malls.length; i++){%>
+
+  	<img src="/images/<%= malls[i].poster %>" class="img-responsive">
+
+  <% } %>
+
+
+
+
+
+    <% include partials/scripts.ejs %>
+  </body>
+</html>

@@ -1,0 +1,56 @@
+{
+  "malls": [{
+    "title" : "Mall: Thika Road Mall - TRM",
+    "mall_name" : "trm",
+    "main_features" : ["Shopping", "Fast food", "kids playing areas", "Relaxing palours", "Movie theatre", "Supermarkets"],
+    "description" : "Thika Road Mall is one of the largest shopping malls in East Africa, with... Thika Road Mall is one of the largest shopping malls in East Africa, with over 100 outlets featuring the best of Kenya’s shopping, eating, banking and entertainment, along with numerous services and amenities for your everyday needs.Whether you want to buy your weekly groceries at Nakumatt, do your banking, buy a unique gift for someone special, or give your children an unforgettable day’s en",
+    "poster" : "trm.jpg",
+    "mall_image" : "trm1.jpg"
+  },
+
+  {
+    "title" : "Mall: Two Rivers",
+    "mall_name" : "twoRivers",
+    "main_features" : ["Shopping", "Fast food", "kids playing areas", "Relaxing palours", "Movie theatre", "Supermarkets"],
+    "description" : "There are approximately 900 workers on the mega Two Rivers Development construction site on a good day. When the sun is directly overhead and the sweat beads weigh heavy on the brows and backs of the workers, the synchronized clings and clangs of hammers, hissing of hot metal rods being shaped become a bit duller, you begin to see a steady stream of laborers walking towards the gate, with one",
+    "poster" : "tworivers.jpg",
+    "mall_image" : "tworivers1.jpeg"
+  },
+
+  {
+    "title" : "Mall: Garden City Mall",
+    "mall_name" : "gardenCity",
+    "main_features" : ["Shopping", "Fast food", "kids playing areas", "Relaxing palours", "Movie theatre", "Supermarkets"],
+    "description" : "Three years after the onset of the Clone Wars; the noble Jedi Knights are spread out across the galaxy leading a massive clone army in the war against the Separatists. After Chancellor Palpatine is kidnapped, Jedi Master Obi-Wan Kenobi and his former Padawan, Anakin Skywalker, are dispatched to eliminate the evil General Grievous. Meanwhile, Anakin's friendship with the Chancellor arouses suspicion in the Jedi Order, and dangerous to the Jedi Knight himself. When the sinister Sith Lord, Darth Sidious, unveils a plot to take over the galaxy, the fate of Anakin, the Jedi order, and the entire galaxy is at stake. Upon his return, Anakin Skywalker's wife Padme Amidala is pregnant, but he is having visions of her dying in childbirth. Anakin Skywalker ultimately turns his back on the Jedi, thus completing his journey to the dark side and his transformation into Darth Vader. Obi-Wan Kenobi must face his former apprentice in a ferocious lightsaber duel on the fiery world of Mustafar.",
+    "poster" : "gardencity.jpg",
+    "mall_image" : "gardencity1.jpeg"
+  },
+
+  {
+    "title" : "Mall: Java Galleria Mall",
+    "mall_name" : "galleria",
+    "main_features" : ["Shopping", "Fast food", "kids playing areas", "Relaxing palours", "Movie theatre", "Supermarkets"],
+    "description" : "Galleria Mall has the normal shopping places (Nakumatt, Textbook Cetner, Mr. Price) and restaurants (Java House, Art Caffe, food court) that are in the other Nairobi malls. Saw also a wonderful choir singing Christmas songs...The Kenya Boys Choir. A skate park is being built to the side of the mall with a massive half-pipe! Has also a tyre repair center...",
+    "poster" : "galleria.jpg",
+    "mall_image" : "galleria1.jpeg"
+  },
+
+  {
+    "title" : "Mall: The Hub Karen",
+    "mall_name" : "theHub",
+    "main_features" : ["Shopping", "Fast food", "kids playing areas", "Relaxing palours", "Movie theatre", "Supermarkets"],
+    "description" : "I was here with my two teenage daughters and had a very nice time. There are activities for all age groups like shopping for girls or the gaming area for the boy and other places for my age. The food was very nice and I could buy all the things I needed. If you have a small children with you,... ",
+    "poster" : "thehub.jpg",
+    "mall_image" : "thehub1.jpg"
+  },
+
+  {
+    "title" : "Mall: Sarit Center",
+    "mall_name" : "saritCenter",
+    "main_features" : ["Shopping", "Fast food", "kids playing areas", "Relaxing palours", "Movie theatre", "Supermarkets"],
+    "description" : "During our time in Nairobi, the Sarit Centre has offered us everything we wanted to have, from huge supermarket gangs, to video game squares, toy shops in the great tradition of Toys 'R Us (though not to be confused, not the same here, but literally a whole rain flood of toys for kids), movie theaters with the greatest pictures, popcorn... ",
+    "poster" : "saritCenter.jpg",
+    "mall_image" : "saritCenter1.jpeg"
+  }]
+
+}
